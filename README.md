@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peterstangl/flavio-lecture/Neckarzimmern?filepath=1%20Basic%20concepts.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peterstangl/flavio-lecture/GDR-InF-2022?filepath=1%20Basic%20concepts.ipynb)
 
 # flavio lecture
 

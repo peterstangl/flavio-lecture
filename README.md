@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peterstangl/flavio-lecture/2024_Zurich?filepath=1%20Installation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peterstangl/flavio-lecture/2025_CERN?filepath=1%20Installation.ipynb)
 
 # flavio lecture
 
